@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-responsive_design-media_queries/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-responsive_design-media_queries/'**
 ***
 title: **'Code Institiute - Responsive Design - Media Queries'**
 
